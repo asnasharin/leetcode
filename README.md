@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/asnasharin/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/asnasharin/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/asnasharin/leetcode/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/asnasharin/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/asnasharin/leetcode/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/asnasharin/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/asnasharin/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/asnasharin/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
